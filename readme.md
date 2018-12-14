@@ -1,17 +1,17 @@
-WebSocket PHP Open Group Chat App
+# WebSocket PHP Open Group Chat App
 
-#Source
+## *Source*
 https://kode-blog.io/websocket-example
 
-#php should be added on path environment variable
+## *php should be added on path environment variable*
 
-#Command line
+## *Command line*
 D:\xampp\htdocs\wsserver\bin>php chat-server.php
 
-Congratulations! the server is now running
+Output: Congratulations! the server is now running
 
-#Chat Panel
+## *Chat Panel*
 http://localhost/wsserver/
 
-#Screenshot
+## *Screenshot*
 ![alt text](https://raw.githubusercontent.com/kamleshwebtech/websocket-php-open-group-chat-app/master/group-chat-screenshot.jpg)
