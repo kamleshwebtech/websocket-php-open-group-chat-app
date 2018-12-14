@@ -24,3 +24,9 @@ http://localhost/websocket-php-open-group-chat-app/
 
 ## *Source*
 https://kode-blog.io/websocket-example
+
+## *Working Status In Browser with HTTPS*
+- [x] Chorme
+- [x] Safari
+- [x] Microsoft Edge
+- [ ] Firefox
