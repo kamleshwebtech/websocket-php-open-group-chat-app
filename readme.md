@@ -20,7 +20,7 @@ http://localhost/websocket-php-open-group-chat-app/chat-server.php
 http://localhost/websocket-php-open-group-chat-app/
 
 ## *Screenshot*
-![alt text](https://raw.githubusercontent.com/kamleshwebtech/websocket-php-open-group-chat-app/master/group-chat-screenshot.jpg)
+![alt text](https://raw.githubusercontent.com/kamleshwebtech/websocket-php-open-group-chat-app/master/group-chat-screenshot.jpg?v=18.12.14.1827)
 
 ## *Source*
 https://kode-blog.io/websocket-example
