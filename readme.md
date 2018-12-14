@@ -2,10 +2,19 @@
 
 ## *php should be added on path environment variable*
 
-## *Command line*
+## *Command line - Start chat server *
+
+### Method-1:
+
 D:\xampp\htdocs\websocket-php-open-group-chat-app\bin>php chat-server.php
 
 Output: Congratulations! the server is now running
+
+### Method-2
+
+chat-server.php file could be run by url / curl
+
+http://localhost/websocket-php-open-group-chat-app/chat-server.php
 
 ## *Chat Panel*
 http://localhost/websocket-php-open-group-chat-app/
