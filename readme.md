@@ -1,3 +1,5 @@
+WebSocket PHP Open Group Chat App
+
 #Source
 https://kode-blog.io/websocket-example
 
