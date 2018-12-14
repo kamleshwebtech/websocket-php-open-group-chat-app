@@ -2,7 +2,7 @@
 
 ## *php should be added on path environment variable*
 
-## *Command line - Start chat server *
+## *Command line - Start chat server*
 
 ### Method-1:
 
